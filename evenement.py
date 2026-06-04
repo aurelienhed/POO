@@ -1,5 +1,5 @@
 from abc import *
-from ..personnage import *
+from personnage import *
 from random import randint
 
 
