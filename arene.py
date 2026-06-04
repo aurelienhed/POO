@@ -1,4 +1,4 @@
-from ..personnage import *
+from personnage import *
 from evenement import *
 from abc import ABC
 from random import randint
